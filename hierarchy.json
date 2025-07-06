@@ -1,0 +1,764 @@
+{
+  "id": 152,
+  "name": "Pending",
+  "children": [
+    {
+      "id": 150,
+      "name": "Pending",
+      "children": [
+        {
+          "id": 1,
+          "phrase": "age limit"
+        },
+        {
+          "id": 149,
+          "name": "Pending",
+          "children": [
+            {
+              "id": 30,
+              "phrase": "edit personal details"
+            },
+            {
+              "id": 148,
+              "name": "Pending",
+              "children": [
+                {
+                  "id": 54,
+                  "phrase": "supported cards and currencies"
+                },
+                {
+                  "id": 147,
+                  "name": "Pending",
+                  "children": [
+                    {
+                      "id": 110,
+                      "name": "Account",
+                      "children": [
+                        {
+                          "id": 55,
+                          "phrase": "terminate account"
+                        },
+                        {
+                          "id": 65,
+                          "phrase": "transfer into account"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 146,
+                      "name": "Pending",
+                      "children": [
+                        {
+                          "id": 109,
+                          "name": "Request Refund",
+                          "children": [
+                            {
+                              "id": 51,
+                              "phrase": "refund not showing up"
+                            },
+                            {
+                              "id": 52,
+                              "phrase": "request refund"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 145,
+                          "name": "Pending",
+                          "children": [
+                            {
+                              "id": 117,
+                              "name": "Change Pin",
+                              "children": [
+                                {
+                                  "id": 21,
+                                  "phrase": "change pin"
+                                },
+                                {
+                                  "id": 49,
+                                  "phrase": "pin blocked"
+                                }
+                              ]
+                            },
+                            {
+                              "id": 144,
+                              "name": "Pending",
+                              "children": [
+                                {
+                                  "id": 119,
+                                  "name": "Charged",
+                                  "children": [
+                                    {
+                                      "id": 63,
+                                      "phrase": "transaction charged twice"
+                                    },
+                                    {
+                                      "id": 81,
+                                      "name": "Transfer Fee",
+                                      "children": [
+                                        {
+                                          "id": 15,
+                                          "phrase": "card payment fee charged"
+                                        },
+                                        {
+                                          "id": 64,
+                                          "phrase": "transfer fee charged"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": 143,
+                                  "name": "Pending Payment",
+                                  "children": [
+                                    {
+                                      "id": 122,
+                                      "name": "Atm Support",
+                                      "children": [
+                                        {
+                                          "id": 36,
+                                          "phrase": "fiat currency support"
+                                        },
+                                        {
+                                          "id": 116,
+                                          "name": "Support",
+                                          "children": [
+                                            {
+                                              "id": 3,
+                                              "phrase": "atm support"
+                                            },
+                                            {
+                                              "id": 24,
+                                              "phrase": "country support"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": 142,
+                                      "name": "Pending Payment",
+                                      "children": [
+                                        {
+                                          "id": 135,
+                                          "name": "Visa",
+                                          "children": [
+                                            {
+                                              "id": 2,
+                                              "phrase": "apple pay or google pay"
+                                            },
+                                            {
+                                              "id": 131,
+                                              "name": "Visa",
+                                              "children": [
+                                                {
+                                                  "id": 73,
+                                                  "phrase": "visa or mastercard"
+                                                },
+                                                {
+                                                  "id": 79,
+                                                  "name": "Stolen Phone",
+                                                  "children": [
+                                                    {
+                                                      "id": 41,
+                                                      "phrase": "lost or stolen card"
+                                                    },
+                                                    {
+                                                      "id": 42,
+                                                      "phrase": "lost or stolen phone"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": 141,
+                                          "name": "Pending Payment",
+                                          "children": [
+                                            {
+                                              "id": 34,
+                                              "phrase": "extra charge on statement"
+                                            },
+                                            {
+                                              "id": 140,
+                                              "name": "Pending Payment",
+                                              "children": [
+                                                {
+                                                  "id": 127,
+                                                  "name": "Exchange Rate",
+                                                  "children": [
+                                                    {
+                                                      "id": 33,
+                                                      "phrase": "exchange via app"
+                                                    },
+                                                    {
+                                                      "id": 105,
+                                                      "name": "Exchange Rate",
+                                                      "children": [
+                                                        {
+                                                          "id": 31,
+                                                          "phrase": "exchange charge"
+                                                        },
+                                                        {
+                                                          "id": 87,
+                                                          "name": "Withdrawal",
+                                                          "children": [
+                                                            {
+                                                              "id": 76,
+                                                              "phrase": "wrong exchange rate for cash withdrawal"
+                                                            },
+                                                            {
+                                                              "id": 80,
+                                                              "name": "Payment Wrong",
+                                                              "children": [
+                                                                {
+                                                                  "id": 17,
+                                                                  "phrase": "card payment wrong exchange rate"
+                                                                },
+                                                                {
+                                                                  "id": 32,
+                                                                  "phrase": "exchange rate"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "id": 139,
+                                                  "name": "Pending Payment",
+                                                  "children": [
+                                                    {
+                                                      "id": 132,
+                                                      "name": "Verify Identity",
+                                                      "children": [
+                                                        {
+                                                          "id": 70,
+                                                          "phrase": "verify source of funds"
+                                                        },
+                                                        {
+                                                          "id": 103,
+                                                          "name": "Verify Identity",
+                                                          "children": [
+                                                            {
+                                                              "id": 68,
+                                                              "phrase": "unable to verify identity"
+                                                            },
+                                                            {
+                                                              "id": 96,
+                                                              "name": "Verification",
+                                                              "children": [
+                                                                {
+                                                                  "id": 69,
+                                                                  "phrase": "verify my identity"
+                                                                },
+                                                                {
+                                                                  "id": 74,
+                                                                  "phrase": "why verify identity"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "id": 138,
+                                                      "name": "Card Payment",
+                                                      "children": [
+                                                        {
+                                                          "id": 130,
+                                                          "name": "Card Working",
+                                                          "children": [
+                                                            {
+                                                              "id": 7,
+                                                              "phrase": "beneficiary not allowed"
+                                                            },
+                                                            {
+                                                              "id": 129,
+                                                              "name": "Card Working",
+                                                              "children": [
+                                                                {
+                                                                  "id": 93,
+                                                                  "name": "Updated Balance",
+                                                                  "children": [
+                                                                    {
+                                                                      "id": 5,
+                                                                      "phrase": "balance not updated after bank transfer"
+                                                                    },
+                                                                    {
+                                                                      "id": 6,
+                                                                      "phrase": "balance not updated after cheque or cash deposit"
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "id": 124,
+                                                                  "name": "Card Working",
+                                                                  "children": [
+                                                                    {
+                                                                      "id": 84,
+                                                                      "name": "Card",
+                                                                      "children": [
+                                                                        {
+                                                                          "id": 16,
+                                                                          "phrase": "card payment not recognised"
+                                                                        },
+                                                                        {
+                                                                          "id": 28,
+                                                                          "phrase": "direct debit payment not recognised"
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "id": 95,
+                                                                      "name": "Contactless",
+                                                                      "children": [
+                                                                        {
+                                                                          "id": 23,
+                                                                          "phrase": "contactless not working"
+                                                                        },
+                                                                        {
+                                                                          "id": 77,
+                                                                          "name": "Card",
+                                                                          "children": [
+                                                                            {
+                                                                              "id": 14,
+                                                                              "phrase": "card not working"
+                                                                            },
+                                                                            {
+                                                                              "id": 72,
+                                                                              "phrase": "virtual card not working"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "id": 137,
+                                                          "name": "Withdrawal Of Cash",
+                                                          "children": [
+                                                            {
+                                                              "id": 121,
+                                                              "name": "Cash",
+                                                              "children": [
+                                                                {
+                                                                  "id": 75,
+                                                                  "phrase": "wrong amount of cash received"
+                                                                },
+                                                                {
+                                                                  "id": 90,
+                                                                  "name": "Withdrawal Charge",
+                                                                  "children": [
+                                                                    {
+                                                                      "id": 20,
+                                                                      "phrase": "cash withdrawal not recognised"
+                                                                    },
+                                                                    {
+                                                                      "id": 86,
+                                                                      "name": "Cash",
+                                                                      "children": [
+                                                                        {
+                                                                          "id": 26,
+                                                                          "phrase": "declined cash withdrawal"
+                                                                        },
+                                                                        {
+                                                                          "id": 83,
+                                                                          "name": "Cash",
+                                                                          "children": [
+                                                                            {
+                                                                              "id": 19,
+                                                                              "phrase": "cash withdrawal charge"
+                                                                            },
+                                                                            {
+                                                                              "id": 46,
+                                                                              "phrase": "pending cash withdrawal"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "id": 136,
+                                                              "name": "Limits",
+                                                              "children": [
+                                                                {
+                                                                  "id": 133,
+                                                                  "name": "Card",
+                                                                  "children": [
+                                                                    {
+                                                                      "id": 9,
+                                                                      "phrase": "card about to expire"
+                                                                    },
+                                                                    {
+                                                                      "id": 128,
+                                                                      "name": "Card",
+                                                                      "children": [
+                                                                        {
+                                                                          "id": 12,
+                                                                          "phrase": "card delivery estimate"
+                                                                        },
+                                                                        {
+                                                                          "id": 126,
+                                                                          "name": "Card",
+                                                                          "children": [
+                                                                            {
+                                                                              "id": 123,
+                                                                              "name": "Card Payment",
+                                                                              "children": [
+                                                                                {
+                                                                                  "id": 0,
+                                                                                  "phrase": "activate my card"
+                                                                                },
+                                                                                {
+                                                                                  "id": 120,
+                                                                                  "name": "Card",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 100,
+                                                                                      "name": "Card",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "id": 29,
+                                                                                          "phrase": "disposable card limits"
+                                                                                        },
+                                                                                        {
+                                                                                          "id": 37,
+                                                                                          "phrase": "get disposable virtual card"
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 114,
+                                                                                      "name": "Card Payment",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "id": 108,
+                                                                                          "name": "Reverted Card",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "id": 10,
+                                                                                              "phrase": "card acceptance"
+                                                                                            },
+                                                                                            {
+                                                                                              "id": 89,
+                                                                                              "name": "Pending Card",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "id": 53,
+                                                                                                  "phrase": "reverted card payment?"
+                                                                                                },
+                                                                                                {
+                                                                                                  "id": 85,
+                                                                                                  "name": "Declined Card",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "id": 25,
+                                                                                                      "phrase": "declined card payment"
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "id": 45,
+                                                                                                      "phrase": "pending card payment"
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        },
+                                                                                        {
+                                                                                          "id": 113,
+                                                                                          "name": "Card",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "id": 22,
+                                                                                              "phrase": "compromised card"
+                                                                                            },
+                                                                                            {
+                                                                                              "id": 112,
+                                                                                              "name": "Card Arrival",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "id": 18,
+                                                                                                  "phrase": "card swallowed"
+                                                                                                },
+                                                                                                {
+                                                                                                  "id": 111,
+                                                                                                  "name": "Card",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "id": 11,
+                                                                                                      "phrase": "card arrival"
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "id": 13,
+                                                                                                      "phrase": "card linking"
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "id": 125,
+                                                                              "name": "Card",
+                                                                              "children": [
+                                                                                {
+                                                                                  "id": 94,
+                                                                                  "name": "Card",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 39,
+                                                                                      "phrase": "getting spare card"
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 40,
+                                                                                      "phrase": "getting virtual card"
+                                                                                    }
+                                                                                  ]
+                                                                                },
+                                                                                {
+                                                                                  "id": 98,
+                                                                                  "name": "Card",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 38,
+                                                                                      "phrase": "get physical card"
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 43,
+                                                                                      "phrase": "order physical card"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "id": 134,
+                                                                  "name": "Revert",
+                                                                  "children": [
+                                                                    {
+                                                                      "id": 107,
+                                                                      "name": "Automatic",
+                                                                      "children": [
+                                                                        {
+                                                                          "id": 97,
+                                                                          "name": "Revert",
+                                                                          "children": [
+                                                                            {
+                                                                              "id": 4,
+                                                                              "phrase": "automatic top up"
+                                                                            },
+                                                                            {
+                                                                              "id": 92,
+                                                                              "name": "Verification",
+                                                                              "children": [
+                                                                                {
+                                                                                  "id": 88,
+                                                                                  "name": "Pending",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 59,
+                                                                                      "phrase": "top up failed"
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 82,
+                                                                                      "name": "Pending",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "id": 47,
+                                                                                          "phrase": "pending top up"
+                                                                                        },
+                                                                                        {
+                                                                                          "id": 71,
+                                                                                          "phrase": "verify top up"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                },
+                                                                                {
+                                                                                  "id": 91,
+                                                                                  "name": "Reverted",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 60,
+                                                                                      "phrase": "top up limits"
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 61,
+                                                                                      "phrase": "top up reverted"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        },
+                                                                        {
+                                                                          "id": 101,
+                                                                          "name": "Cheque",
+                                                                          "children": [
+                                                                            {
+                                                                              "id": 62,
+                                                                              "phrase": "topping up by card"
+                                                                            },
+                                                                            {
+                                                                              "id": 99,
+                                                                              "name": "Charge",
+                                                                              "children": [
+                                                                                {
+                                                                                  "id": 58,
+                                                                                  "phrase": "top up by cash or cheque"
+                                                                                },
+                                                                                {
+                                                                                  "id": 78,
+                                                                                  "name": "Charge",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 56,
+                                                                                      "phrase": "top up by bank transfer charge"
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 57,
+                                                                                      "phrase": "top up by card charge"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "id": 118,
+                                                                      "name": "Pending Transfer",
+                                                                      "children": [
+                                                                        {
+                                                                          "id": 66,
+                                                                          "phrase": "transfer not received by recipient"
+                                                                        },
+                                                                        {
+                                                                          "id": 115,
+                                                                          "name": "Pending Transfer",
+                                                                          "children": [
+                                                                            {
+                                                                              "id": 67,
+                                                                              "phrase": "transfer timing"
+                                                                            },
+                                                                            {
+                                                                              "id": 106,
+                                                                              "name": "Pending Transfer",
+                                                                              "children": [
+                                                                                {
+                                                                                  "id": 8,
+                                                                                  "phrase": "cancel transfer"
+                                                                                },
+                                                                                {
+                                                                                  "id": 104,
+                                                                                  "name": "Pending Transfer",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "id": 35,
+                                                                                      "phrase": "failed transfer"
+                                                                                    },
+                                                                                    {
+                                                                                      "id": 102,
+                                                                                      "name": "Pending Transfer",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "id": 27,
+                                                                                          "phrase": "declined transfer"
+                                                                                        },
+                                                                                        {
+                                                                                          "id": 48,
+                                                                                          "phrase": "pending transfer"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Passcode",
+      "children": [
+        {
+          "id": 44,
+          "phrase": "passcode forgotten"
+        },
+        {
+          "id": 50,
+          "phrase": "receiving money"
+        }
+      ]
+    }
+  ]
+}

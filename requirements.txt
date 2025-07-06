@@ -1,0 +1,21 @@
+# Core
+fastapi
+uvicorn
+
+# Transformers & Sentence Embeddings
+transformers
+sentencepiece
+accelerate
+sentence-transformers
+
+# Clustering, Metrics & Text Processing
+scikit-learn
+scipy
+numpy
+matplotlib
+
+# FAISS (for semantic search)
+faiss-cpu
+
+# For handling CORS in FastAPI
+python-multipart
